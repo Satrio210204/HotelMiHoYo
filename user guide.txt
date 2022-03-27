@@ -1,0 +1,23 @@
+Untuk link Hosting silahkan salin link berikut :
+
+ttps://reservasihotelsatrio.000webhostapp.com/
+atau
+https://hotelmihoyo.000webhostapp.com/
+
+
+Untuk file silahkan extrak RAR/Zip yg bernamakan :
+Ujikom_Satrio
+
+ Jika tidak ada rar atau zip maka file tsb telah ter extrak di dalam folder atau tidak di rar/zip
+
+di xampp => htdocs
+untuk folder yg sudah di extrak akan bernama New folder lalu buka folder yang bernama Satrio01 yang mana di dalam
+folder tsb terdapat file file aplikasi yang telah di buat
+
+UNTUK LINK HOSTING :
+
+https://reservasihotelsatrio.000webhostapp.com/
+
+ATAU 
+
+https://hotelmihoyo.000webhostapp.com/
